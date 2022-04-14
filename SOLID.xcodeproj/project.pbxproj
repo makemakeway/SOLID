@@ -12,6 +12,8 @@
 		C2DC11AE27FDC83A00A4ECEE /* After.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DC11AD27FDC83A00A4ECEE /* After.swift */; };
 		C2DC11B027FEF9EC00A4ECEE /* Before.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DC11AF27FEF9EC00A4ECEE /* Before.swift */; };
 		C2DC12132807047D00A4ECEE /* After.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DC12122807047D00A4ECEE /* After.swift */; };
+		C2DC121528070DD000A4ECEE /* Before.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DC121428070DD000A4ECEE /* Before.swift */; };
+		C2DC12172807EC2D00A4ECEE /* After.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2DC12162807EC2D00A4ECEE /* After.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +35,8 @@
 		C2DC11AD27FDC83A00A4ECEE /* After.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = After.swift; sourceTree = "<group>"; };
 		C2DC11AF27FEF9EC00A4ECEE /* Before.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Before.swift; sourceTree = "<group>"; };
 		C2DC12122807047D00A4ECEE /* After.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = After.swift; sourceTree = "<group>"; };
+		C2DC121428070DD000A4ECEE /* Before.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Before.swift; sourceTree = "<group>"; };
+		C2DC12162807EC2D00A4ECEE /* After.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = After.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		C2DC11A927FDAB6100A4ECEE /* LSP */ = {
 			isa = PBXGroup;
 			children = (
+				C2DC121428070DD000A4ECEE /* Before.swift */,
+				C2DC12162807EC2D00A4ECEE /* After.swift */,
 			);
 			path = LSP;
 			sourceTree = "<group>";
@@ -172,6 +178,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2DC121528070DD000A4ECEE /* Before.swift in Sources */,
+				C2DC12172807EC2D00A4ECEE /* After.swift in Sources */,
 				C2DC11AE27FDC83A00A4ECEE /* After.swift in Sources */,
 				C2DC12132807047D00A4ECEE /* After.swift in Sources */,
 				C2DC11AC27FDABB600A4ECEE /* Before.swift in Sources */,
